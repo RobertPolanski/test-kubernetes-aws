@@ -1,4 +1,6 @@
-# Chapter Instructions
+# Test-Kubernetes-In-AWS
+
+Beispielhafte Implementierung einer Kubernetes EKS AWS-Cluster-Infrastruktur mit Terraform und Ansible. Die Codestruktur ist schön modularisiert.
 
 ## Prerequisites
 ### Install tools
